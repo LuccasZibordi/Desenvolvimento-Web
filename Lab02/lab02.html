@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Lab02.css">
+    <title>Lab02</title>
+    <style>
+        body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    background-image: url("bananananananna.jpg");
+    background-size: 1400px;
+    color: black;
+}
+
+h1, h2, h3 {
+    color:black;
+    text-align: center;
+}
+
+
+img{
+    width: 300px;
+    
+}
+ol{
+    
+    text-align: left;
+    text-emphasis-color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+    </style>
+</head>
+<body>
+    <h1> Está é uma página sobre o macacos</h1>
+    <p> evidentemente o conteúdo da página será sobre símios e suas peculiaridades</p>
+    <p> A vida de nossos companheiros primatas ao primeiro momento parece confusa, sem um sentido. <div></div>
+        Contudo, a vida deles é simples, cheia de natureza e leveza, por isso a busca por um sentido <div>
+        se faz desnecessária.
+        </div>
+    </p>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wKnfyrGZwA0?si=O3lPu2FvOwY4wijG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <div></div>
+
+     <audio controls autoplay>
+        <source src="https://cdn.discordapp.com/attachments/1070832533085900831/1272617565809672303/monkey-scream-6407.mp3?ex=66bba0f7&is=66ba4f77&hm=1bced5713dede34aafd95ddd61b95adfe016530d8454bdb03a4ae0433668f081&" type="audio/mpeg">
+      Your browser does not support the audio element.
+     </audio>
+
+    <h2> Dito isso, aqui esta uma lista sobre motivos sobre o qual macacos podem ser mais felizes que humanos</h2>
+    <p> Essa lista visa mostrar algumas diferenças sobre a vida de macacos selvagens e humanos, <div>
+        mostrando apenas lados negativos da humanidade não vivenciados pelos nossos amigos peludos.
+    </div></p>
+    <h3>A lista macaco oficial atualizada 2018 pt-br</h3>
+    <ol>
+        <li>Macacos não pagam impostos! <div></div>
+            <img src="macacorindo.gif" alt="rindo pacas">
+            <p>SIM, isso mesmo que você leu, macacos não pagam impostos! <div>
+                os macacos não possuem um sistema de governo democrata, muito menos possuem uma <div>
+                    moeda de troca para produtos ou comida, logo impostos não são necessários para eles.
+                </div>
+            </div></p>
+        </li>
+        <li>Macacos não necessitam de automóveis. <div></div>
+            <img src="driving.jpg" alt="Ryan gosling">
+            <p> Macacos se movimentam pela mata, pulando entre os galhos das árvores e cipós, <div>
+                se balançando pela floresta, logo automóveis são desnecessários, quem precisa de CNH? <div>
+                    eles não kkkkkkk.
+                </div>
+            </div></p>
+        </li>
+        <li>Macacos não usam roupa! <div></div>
+            <img src="gorilla-reaction-gorilla.gif" alt="omygod">
+            <p> Não usam por que não precisam, eles não sentem vergonha da nudez, <div>
+                macacos não se importam com normas e etiquetas, eles estão na selva ora bolas!
+            </div></p>
+
+        </li>
+        <li>Macacos não precisam de formação acadêmica. <div></div>
+            <img src="engeneer.jpg" alt="engenheiro">
+            <p> Você pode estar se perguntando, mas macacos não possuem funções dentro do grupo? <div>
+                sim, eles possuem, contudo, eles não são formados acadêmnicamente em nenhuma instituição, <div>
+                    afinal de contas, instituições de formação são para humanos, não macacos.
+                </div>
+            </div></p>
+
+        </li>
+        
+    </ol>
+    
+    <h2>Agora que você possui um breve conhecimento sobre macacos venha se tornar um também!</h2>
+    <h3>Formulário para se inscrever na instituição Macaco:</h3>
+    <form action="/enviar_formulario" method="post">
+        <label for="nome">Nome humano:</label>
+        <input type="text" id="nome" name="nome"><br><br>
+
+        <label for="idade">Idade:</label>
+        <input type="idade" id="idade" name="idade"><br><br>
+
+        <label for="mensagem">Por que se tornar um macaco?</label><br>
+        <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+
+    <div class="container">
+        <h2>GrÃ¡fico em Canvas</h2>
+        <canvas id="meuCanvas" width="200" height="100" style="border:1px solid #000000;"></canvas>
+        <script>
+            var c = document.getElementById("meuCanvas");
+            var ctx = c.getContext("2d");
+            ctx.fillStyle = "#FF0000";
+            ctx.fillRect(20, 20, 150, 75);
+        </script>
+    </div>
+
+    <div class="container">
+        <h2>GrÃ¡fico SVG</h2>
+        <svg width="100" height="100">
+            <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+        </svg>
+    </div>
+
+    <footer> universomacaco 2024 @</footer>
+</body>
+
+</html>
