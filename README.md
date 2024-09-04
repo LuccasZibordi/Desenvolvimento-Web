@@ -24,11 +24,8 @@ Laboratório 16 - Utilizando o JavaScript em uma calculadora
 Desenvolvimento de uma calculadora que pode realizar somas, subtrações, multiplicações e divisões simples.
 
 
-<<<<<<< HEAD
+
 ## Tecnologias Utilizadas ##
-=======
-♞ Tecnologias Utilizadas
->>>>>>> 9c0514028d48af117b9a55af55d2ef3ba0d6c3cd
 HTML5
 CSS3 
 JavaScript 
