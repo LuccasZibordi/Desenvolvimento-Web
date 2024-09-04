@@ -2,26 +2,22 @@
 ### Desenvolvimento-Web ###
 
 ### Repositório de Laboratórios de Desenvolvimento Web ###
-Bem-vindo(a) ao meu repositório! Meu nome é Luccas e sou um estudante de Engenharia de Computação na Universidade da PUC-Campinas e aqui estão os laboratórios e projetos que desenvolvi ao longo da minha contínua jornada de aprendizado. Cada pasta contém um projeto ou laboratório com foco em diferentes tecnologias e habilidades do desenvolvimento web.
+Bem-vindo(a) ao meu repositório! Meu nome � Luccas e sou um estudante de Engenharia de Computa��o na Universidade da PUC-Campinas e aqui est�o os laborat�rios e projetos que desenvolvi ao longo da minha cont�nua jornada de aprendizado. Cada pasta contem um projeto ou laborat�rio com foco em diferentes tecnologias e habilidades do desenvolvimento web.
 
-## Estrutura do Repositório ##
-Laboratório 1 - Introdução ao HTML e CSS
-Aprendizado básico de HTML5 e CSS3. Foco na criação de uma página estática simples, trabalhando com tags semânticas, formatação de texto, imagens, e layout com CSS.
+## Estrutura do Reposit�rio ##
+Laborat�rio 1 - Introdu��o ao HTML e CSS
+Aprendizado b�sico de HTML5 e CSS3. Foco na cria��o de uma p�gina est�tica simples, trabalhando com tags sem�nticas, formata��oo de texto, imagens.
 
-â™¦ï¸Ž Estrutura do RepositÃ³rio
-LaboratÃ³rio 1 - IntroduÃ§Ã£o ao HTML e CSS
-Aprendizado bÃ¡sico de HTML5 e CSS3. Foco na criaÃ§Ã£o de uma pÃ¡gina estÃ¡tica simples, trabalhando com tags semÃ¢nticas, formataÃ§Ã£o de texto, imagens, e layout com CSS.
-
-LaboratÃ³rio 2 - Interatividade com CSS mais afundo
-AplicaÃ§Ã£o dos primeiros conceitos de CSS. Inclui backgorund image, incorporaÃ§Ã£o de vÃ­deos, imagens, gifs, audios,
+Laborat�rio 2 - Interatividade com CSS mais afundo
+Aplica��o dos primeiros conceitos de CSS. Inclui backgorund image, incorpora��o de v�deos, imagens, gifs, audios,
 listas entre outros.
 
-LaboratÃ³rio 4 - Site com links
-Projeto focado na utilizaÃ§Ã£o de botÃµes utilizaveis para a navegaÃ§Ã£o entre pÃ¡ginas e uma funÃ§Ã£o de modo-claro
+Laborat�rio 4 - Site com links
+Projeto focado em bot�es utilizaveis para a navega��o entre p�ginas e uma fun��o de modo-claro
 e modo-escuro
 
-LaboratÃ³rio 16 - Utilizando o JavaScript em uma calculadora
-Desenvolvimento de uma calculadora que pode realizar somas, subtraÃ§Ãµes, multiplicaÃ§Ãµes e divisÃµes simples.
+Laborat�rio 16 - Utilizando o JavaScript em uma calculadora
+Desenvolvimento de uma calculadora que pode realizar somas, subtra��es, multiplica��es e divis�es simples.
 
 
 
