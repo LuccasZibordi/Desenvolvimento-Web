@@ -1,7 +1,7 @@
 
 ### Desenvolvimento-Web ###
 
-### RepositÃ³rio de LaboratÃ³rios de Desenvolvimento Web ###
+### Repositório de Laboratóios de Desenvolvimento Web ###
 Bem-vindo(a) ao meu repositÃ³rio! Meu nome é Luccas e sou um estudante de Engenharia de Computação na Universidade da PUC-Campinas e aqui estão os laboratórios e projetos que desenvolvi ao longo da minha contínua jornada de aprendizado. Cada pasta contem um projeto ou laboratório com foco em diferentes tecnologias e habilidades do desenvolvimento web.
 
 ## Estrutura do Repositório ##
