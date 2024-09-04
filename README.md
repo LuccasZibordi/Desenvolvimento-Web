@@ -1,24 +1,24 @@
-# Desenvolvimento-Web
-###?? RepositÛrio de LaboratÛrios de Desenvolvimento Web
-Bem-vindo(a) ao meu repositÛrio! Meu nome È Luccas e sou um estudante de Engenharia de ComputaÁ„o na Universidade da PUC-Campinas e aqui est„o os laboratÛrios e projetos que desenvolvi ao longo da minha contÌnua jornada de aprendizado. Cada pasta contÈm um projeto ou laboratÛrio com foco em diferentes tecnologias e habilidades do desenvolvimento web.
+Desenvolvimento-Web
+‚òÖ Reposit√≥rio de Laborat√≥rios de Desenvolvimento Web##
+Bem-vindo(a) ao meu reposit√≥rio! Meu nome √© Luccas e sou um estudante de Engenharia de Computa√ß√£o na Universidade da PUC-Campinas e aqui est√£o os laborat√≥rios e projetos que desenvolvi ao longo da minha cont√≠nua jornada de aprendizado. Cada pasta cont√©m um projeto ou laborat√≥rio com foco em diferentes tecnologias e habilidades do desenvolvimento web.
 
-##?? Estrutura do RepositÛrio
-LaboratÛrio 1 - IntroduÁ„o ao HTML e CSS
-Aprendizado b·sico de HTML5 e CSS3. Foco na criaÁ„o de uma p·gina est·tica simples, trabalhando com tags sem‚nticas, formataÁ„o de texto, imagens, e layout com CSS.
+‚ô¶Ô∏é Estrutura do Reposit√≥rio
+Laborat√≥rio 1 - Introdu√ß√£o ao HTML e CSS
+Aprendizado b√°sico de HTML5 e CSS3. Foco na cria√ß√£o de uma p√°gina est√°tica simples, trabalhando com tags sem√¢nticas, formata√ß√£o de texto, imagens, e layout com CSS.
 
-LaboratÛrio 2 - Interatividade com CSS mais afundo
-AplicaÁ„o dos primeiros conceitos de CSS. Inclui backgorund image, incorporaÁ„o de vÌdeos, imagens, gifs, audios,
+Laborat√≥rio 2 - Interatividade com CSS mais afundo
+Aplica√ß√£o dos primeiros conceitos de CSS. Inclui backgorund image, incorpora√ß√£o de v√≠deos, imagens, gifs, audios,
 listas entre outros.
 
-LaboratÛrio 4 - Site com links
-Projeto focado na utilizaÁ„o de botıes utilizaveis para a navegaÁ„o entre p·ginas e uma funÁ„o de modo-claro
+Laborat√≥rio 4 - Site com links
+Projeto focado na utiliza√ß√£o de bot√µes utilizaveis para a navega√ß√£o entre p√°ginas e uma fun√ß√£o de modo-claro
 e modo-escuro
 
-LaboratÛrio 16 - Utilizando o JavaScript em uma calculadora
-Desenvolvimento de uma calculadora que pode realizar somas, subtraÁıes, multiplicaÁıes e divisıes simples.
+Laborat√≥rio 16 - Utilizando o JavaScript em uma calculadora
+Desenvolvimento de uma calculadora que pode realizar somas, subtra√ß√µes, multiplica√ß√µes e divis√µes simples.
 
 
-?? Tecnologias Utilizadas
+‚ôû Tecnologias Utilizadas
 HTML5
 CSS3 
 JavaScript 
