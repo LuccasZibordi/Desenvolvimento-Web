@@ -1,23 +1,23 @@
 
-### Desenvolvimento-Web ###
+## Desenvolvimento-Web ##
 
-### Repositório de Laboratóios de Desenvolvimento Web ###
-Bem-vindo(a) ao meu repositÃ³rio! Meu nome é Luccas e sou um estudante de Engenharia de Computação na Universidade da PUC-Campinas e aqui estão os laboratórios e projetos que desenvolvi ao longo da minha contínua jornada de aprendizado. Cada pasta contem um projeto ou laboratório com foco em diferentes tecnologias e habilidades do desenvolvimento web.
+### RepositÃ³rio de LaboratÃ³rios de Desenvolvimento Web ###
+Bem-vindo(a) ao meu repositÃ³rio! Meu nome Ã© Luccas e sou um estudante de Engenharia de ComputaÃ§Ã£o na Universidade da PUC-Campinas, aqui encontra-se os laboratÃ³rios e projetos que desenvolvi ao longo da minha contÃ­nua jornada de aprendizado. Cada pasta contem um projeto ou laboratÃ³rio com foco em diferentes tecnologias e habilidades do desenvolvimento web.
 
-## Estrutura do Repositório ##
-Laboratório 1 - Introdução ao HTML e CSS
-Aprendizado básico de HTML5 e CSS3. Foco na criação de uma página estática simples, trabalhando com tags semânticas, formataçãoo de texto, imagens.
+## Estrutura do Repositï¿½rio ##
+LaboratÃ³rio 1 - IntroduÃ§Ã£o ao HTML e CSS
+Aprendizado bÃ¡sico de HTML5 e CSS3. Foco na criaÃ§Ã£o de uma pÃ¡gina estÃ¡tica simples, trabalhando com tags semÃ¢nticas, formataÃ§Ã£o de texto e imagens.
 
-Laboratório 2 - Interatividade com CSS mais afundo
-Aplicação dos primeiros conceitos de CSS. Inclui backgorund image, incorporação de vídeos, imagens, gifs, audios,
+LaboratÃ³rio 2 - Interatividade com CSS mais afundo
+AplicaÃ§Ã£o dos primeiros conceitos de CSS. Inclui backgorund image, incorporaÃ§Ã£o de vÃ­deos, imagens, gifs, audios,
 listas entre outros.
 
-Laboratório 4 - Site com links
-Projeto focado em botões utilizaveis para a navegação entre páginas e uma função de modo-claro
+LaboratÃ³rio 4 - Site com links
+Projeto focado em botÃµes utilizaveis para a navegaï¿½ï¿½o entre pï¿½ginas e uma funÃ§Ã£o que alterna os temas da pagina para claro ou escuro.
 e modo-escuro
 
-Laboratório 16 - Utilizando o JavaScript em uma calculadora
-Desenvolvimento de uma calculadora que pode realizar somas, subtrações, multiplicações e divisões simples.
+LaboratÃ³rio 16 - Utilizando o JavaScript em uma calculadora
+Desenvolvimento de uma calculadora que pode realizar somas, subtraÃ§Ãµes, multiplicaÃ§Ãµes e divisÃµes simples.
 
 
 
