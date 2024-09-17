@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;800&family=VT323&display=swap');
 
+
+:root{
+    --header-color: #c2c2c2;
+    --footer-color: #c2c2c2;
+    --text-color: #4d0006;
+    --body-bg-color: rgba(0, 0, 0, 0.925);
+    --shadow-color: black;
+}
+
+.light-mode:root{
+    --header-color: rgba(0, 0, 0, 0.925);
+    --footer-color: rgba(0, 0, 0, 0.925);
+    --text-color: #4d0006;
+    --body-bg-color: #c2c2c2;
+    --shadow-color: white;
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -9,10 +27,10 @@
 
 header{
     text-align: center;
-    text-shadow: 2px 3px black;
-    color: #4d0006;
+    text-shadow: 2px 3px var(--shadow-color);
+    color: var(--text-color);
     margin: 15px;
-    background-color: #c2c2c2;
+    background-color: var(--header-color);
     padding: 10px;
     border-radius: 10px;
 }
@@ -24,13 +42,13 @@ img{
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.925);
+    background-color: var(--body-bg-color);
   }
 
 footer{
     font-size: large;
-    color: #4d0006;
-    background-color: #c2c2c2;
+    color: var(--text-color);
+    background-color: var(--footer-color);
     border-radius: 10px;
     padding: 10px;
     margin: 25px;
@@ -38,7 +56,7 @@ footer{
 }
 
 .App{
-    background-color: #c2c2c2;
+    background-color: var(--footer-color);
     width: 90%;
     max-width: 600px;
     margin: 100px auto 0;
@@ -47,7 +65,7 @@ footer{
 }
 .App h1{
     font-size: 25px;
-    color: #4d0006;
+    color: var(--text-color);
     font-weight: 600;
     border-bottom: 1px solid #333;
     padding-bottom: 30px;
@@ -58,7 +76,7 @@ footer{
 
 .quiz h2{
     font-size: 18px;
-    color: #4d0006;
+    color: var(--text-color);
     font-weight: 600;
 
 }
@@ -75,6 +93,25 @@ footer{
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.3s;
+}
+
+#theme{
+        background-color: #fff;
+        color: #222;
+        font-weight: 500;
+        width: 50%;
+        border: 1x solid #222;
+        padding: 10px;
+        margin: 10px 0;
+        text-align: center;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.3s;
+}
+
+#theme:hover{
+    background-color: #222;
+    color: #fff;
 }
 
 .btn:hover:not([disabled]){
