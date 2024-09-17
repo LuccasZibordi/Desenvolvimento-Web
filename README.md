@@ -13,11 +13,14 @@ Aplicação dos primeiros conceitos de CSS. Inclui backgorund image, incorporaç
 listas entre outros.
 
 Laboratório 4 - Site com links
-Projeto focado em botões utilizaveis para a navega��o entre p�ginas e uma função que alterna os temas da pagina para claro ou escuro.
+Projeto focado em botões utilizaveis para a navegação entre páginas e uma função que alterna os temas da pagina para claro ou escuro.
 e modo-escuro
 
 Laboratório 16 - Utilizando o JavaScript em uma calculadora
 Desenvolvimento de uma calculadora que pode realizar somas, subtrações, multiplicações e divisões simples.
+
+Laboratório 32 - Conexão entre JavaScript e CSS 
+Projeto focado na construção de um quiz interativo, utilizando funções do JavaScript combinado com uma estilização temática em CSS.
 
 
 
