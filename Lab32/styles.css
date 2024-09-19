@@ -9,7 +9,7 @@
     --shadow-color: black;
 }
 
-.light-mode:root{
+.lightmode{
     --header-color: rgba(0, 0, 0, 0.925);
     --footer-color: rgba(0, 0, 0, 0.925);
     --text-color: #4d0006;
@@ -95,24 +95,7 @@ footer{
     transition: all 0.3s;
 }
 
-#theme{
-        background-color: #fff;
-        color: #222;
-        font-weight: 500;
-        width: 50%;
-        border: 1x solid #222;
-        padding: 10px;
-        margin: 10px 0;
-        text-align: center;
-        border-radius: 4px;
-        cursor: pointer;
-        transition: all 0.3s;
-}
 
-#theme:hover{
-    background-color: #222;
-    color: #fff;
-}
 
 .btn:hover:not([disabled]){
     background-color: #222;

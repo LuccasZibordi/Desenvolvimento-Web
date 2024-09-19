@@ -124,8 +124,3 @@ nextButton.addEventListener("click", ()=>{
 
 startQuiz();
 
-const themeButton= document.querySelector('#theme')
-
-themeButton.addEventListener('click',function(){
-    $html.classList.toggle('light-mode')
-})
