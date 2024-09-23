@@ -24,7 +24,9 @@ Projeto focado na construção de um quiz interativo, utilizando funções do Ja
 
 Laboratório 64 - Utilizando o NodeJs para a criação de um servidor simples
 Projeto focado na criação de um simples servidor para a hospedagem de varios caminhos
-
+Comandos:
+pagina inicial: http://localhost:3000
+sobre mim: http://localhost:3000/about
 
 ## Tecnologias Utilizadas ##
 HTML5

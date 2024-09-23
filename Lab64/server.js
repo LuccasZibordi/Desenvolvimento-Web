@@ -1,28 +1,23 @@
-const http = require('http')
-const fs = require('fs')
-const port = 3000
+const express = require('express');
+const path = require('path');
 
+const app = express();
+const port = 3000;
 
-let server = http.createServer(function(req, res) {
-  res.writeHead(200, { 'Content-Type': 'text/html'})
-  fs.readFile('index.html', function(error, data) {
-    if (error) {
-      res.writeHead(404)
-      res.write("ERROR: FILE NOT FOUND")
-    }else {
-      res.write(data)
-    }
-      res.end()
-  })
+// Configura o Express para servir arquivos estáticos da pasta "public"
+app.use(express.static(path.join(__dirname, 'public')));
 
-})
+// Rota para a página inicial
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
-server.listen(port, function(error) {
-  if (error) {
-    console.log('Algo não está certo',error)
-  }else
-  {
-    console.log('O servidor esta escutando o port'+ port)
-  }
-})
+// Rota para a página "Sobre"
+app.get('/about', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'about.html'));
+});
 
+// Inicia o servidor
+app.listen(port, () => {
+    console.log(`Servidor rodando em http://localhost:${port}`);
+});
