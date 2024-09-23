@@ -22,6 +22,8 @@ Desenvolvimento de uma calculadora que pode realizar somas, subtrações, multip
 Laboratório 32 - Conexão entre JavaScript e CSS 
 Projeto focado na construção de um quiz interativo, utilizando funções do JavaScript combinado com uma estilização temática em CSS.
 
+Laboratório 64 - Utilizando o NodeJs para a criação de um servidor simples
+Projeto focado na criação de um simples servidor para a hospedagem de varios caminhos
 
 
 ## Tecnologias Utilizadas ##
