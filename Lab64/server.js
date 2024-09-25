@@ -17,6 +17,10 @@ app.get('/about', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'about.html'));
 });
 
+app.use((req,res, next)=> {
+    res.status(404).send('Página não encontrada');
+});
+
 // Inicia o servidor
 app.listen(port, () => {
     console.log(`Servidor rodando em http://localhost:${port}`);
