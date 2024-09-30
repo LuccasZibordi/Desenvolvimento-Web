@@ -1,6 +1,14 @@
 const $html = document.querySelector('html')
-const $checkbox = document.querySelector('#switch')
+const $button = document.querySelector('#switch')
+const $button2 = document.querySelector('#switch2')
 
-$checkbox.addEventListener('change',function(){
+
+
+$button.addEventListener('click',function(){
     $html.classList.toggle('dark-mode')
 })
+
+$button2.addEventListener('click',function(){
+    $html.classList.toggle('blue-mode')
+})
+

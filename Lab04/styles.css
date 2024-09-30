@@ -16,6 +16,14 @@
     --link-color: white;
     --link-color-hover: #ec5840;
 }
+.blue-mode:root{
+    --header-color: blue;
+    --footer-color: blue;
+    --body-bg: #2b334d;
+    --body-color: rgb(212, 235, 253);
+    --link-color: rgb(212, 235, 253);
+    --link-color-hover: #6e40ec;
+}
 
 body {
     font-family: Arial, sans-serif;
