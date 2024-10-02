@@ -16,7 +16,7 @@ RA: 24009007
 RA: 24007138
 # Guilherme Balabanian Mascaretti #
 RA: 24021378
-# Renato Henrique Ykutake #
+# Renato Henrique Ykutake Florencio #
 RA: 24014446
 
 # Links de teste #
