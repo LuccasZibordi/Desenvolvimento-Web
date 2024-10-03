@@ -27,6 +27,12 @@ Projeto focado na criação de um simples servidor para a hospedagem de varios c
 Comandos:
 pagina inicial: http://localhost:3000
 sobre mim: http://localhost:3000/about
+404: http://localhost:3000/erro
+
+Laboratório 128 - Criando um forms simples
+Este laboratório é focado na criação de um formulário  de emprego temático, implementando vários conceitos aprendidos anteriormente
+pagina inicial: http://localhost:3000
+forms: http://localhost:3000/forms.html
 
 ## Tecnologias Utilizadas ##
 HTML5
